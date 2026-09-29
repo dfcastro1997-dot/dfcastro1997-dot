@@ -66,11 +66,3 @@ Me encuentro abierto a establecer alianzas estratégicas, asumir roles de consul
 ---
 
 <br>
-
-<div align="center">
-  <p><b>Actividad Reciente y Estadísticas</b></p>
-  <br>
-  <a href="https://github.com/dfcastro1997-dot">
-    <img src="https://github-readme-stats.vercel.app/api?username=dfcastro1997-dot&show_icons=false&theme=transparent&hide_border=true" alt="Estadísticas de Damian" />
-  </a>
-</div>
