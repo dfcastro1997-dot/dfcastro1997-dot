@@ -5,7 +5,7 @@
   
   <br>
   
-  [LinkedIn](https://www.linkedin.com/in/damian-castro-8b683743b/)  •  [Tu-Correo@email.com](dfcastro1997@gmail.com)
+  [LinkedIn](https://www.linkedin.com/in/damian-castro-8b683743b/)  •  [Gmail](dfcastro1997@gmail.com)
 </div>
 
 ---
