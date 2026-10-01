@@ -5,7 +5,7 @@
   
   <br>
   
-  [LinkedIn](https://www.linkedin.com/in/damian-castro-8b683743b/)  •  [Gmail](dfcastro1997@gmail.com)
+  [LinkedIn](https://www.linkedin.com/in/damian-castro-8b683743b/)  •  [Gmail](mailto:dfcastro1997@gmail.com)
 </div>
 
 ---
@@ -57,12 +57,20 @@ En lugar de depender de una única herramienta, mi enfoque se basa en la selecci
 
 <br>
 
+### Herramientas Web y Proyectos Open Source
+
+A continuación, se detallan implementaciones algorítmicas de acceso público, desarrolladas como Single Page Applications (SPA) con un enfoque estricto en Clean Code, manipulación avanzada del DOM y arquitecturas robustas escalables. *(Haz clic en el nombre de cada proyecto para ver el código fuente).*
+
+| Proyecto | Descripción Técnica y Arquitectura | Stack Tecnológico |
+| :--- | :--- | :--- |
+| **[advanced-js-calculator](https://github.com/dfcastro1997-dot/advanced-js-calculator)** | SPA que replica la lógica de cálculo científico. Implementa **Math.js** para el parseo seguro de expresiones complejas (mitigando vulnerabilidades de inyección vía `eval()`) estructurado bajo Programación Orientada a Objetos. | JavaScript (ES6+), Tailwind CSS, HTML5, Math.js |
+| **[professional-js-sudoku](https://github.com/dfcastro1997-dot/professional-js-sudoku)** | Motor de generación procedural de tableros. Emplea un algoritmo recursivo de **Backtracking** (Búsqueda en Profundidad) para la generación matemática de partidas únicas y un motor de validación bidireccional de estados. | Vanilla JS, Algoritmia DFS, CSS Grid, Tailwind CSS |
+| **[professional-unit-converter](https://github.com/dfcastro1997-dot/professional-unit-converter)** | Plataforma de conversión con arquitectura **Data-Driven**. Utiliza un patrón algorítmico de "Unidad Base" para optimizar la complejidad (de O(N^2) a O(N)) y mitigación programática de errores de punto flotante de precisión. | Vanilla JS, Tailwind CSS, Diseño Monocromático Premium |
+
+<br>
+
 ### Estado Actual y Proyección
 
 Actualmente lidero la arquitectura y el desarrollo de un **Simulador de Tiro Virtual de alta fidelidad**, transitando la fase 3 de un ciclo de 6 etapas de ingeniería.
 
 Me encuentro abierto a establecer alianzas estratégicas, asumir roles de consultoría técnica, gestionar contratos por Prestación de Servicios (OPS) o integrarme a iniciativas de desarrollo de software a nivel internacional.
-
----
-
-<br>
